@@ -23,7 +23,7 @@
             android:screenOrientation="portrait">
             <!-- Tell NativeActivity the name of our .so (strip 'lib' and '.so') -->
             <meta-data android:name="android.app.lib_name"
-                android:value="example-00-helloworldRelease" />
+                android:value="example-02-metaballsRelease" />
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
                 <category android:name="android.intent.category.LAUNCHER" />
